@@ -12,7 +12,7 @@
    - From these pie charts we can infer that % Total Drivers is highly concentrated in Urban areas since it’s only natural to offer services in these city types, as there are high percentages of rides requested, giving drivers more incentive to operate in urban cities. However, the percentage of rides in both rural and suburban far surpass the presence of drivers in those types of cities, indicating less incentive and less presence in these city types explaining the higher fares.  <br/>
    - **% Total Fares by City Type:**<br />
     ![% Total Fares by City Type](analysis/Fig5.png)
-   - This chart further backs the inferred claim that drivers have more ioncentive to operate in urban cities due to frequent high demand of services in these city types regardless of the fare prices offered are lower than rural & suburban cities.  
+   - This chart further backs the inferred claim that drivers have more incentive to operate in urban cities due to frequent high demand of services in these city types regardless of the fare prices offered being lower in comparison to rural & suburban cities.  
 
 
 ### Pyber-Fare-Summary:
