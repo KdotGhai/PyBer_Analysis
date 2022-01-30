@@ -1,5 +1,5 @@
 # PyBer_Analysis
-hjab ejfkh ae fa <a><img src=https://github.com/KdotGhai/PyBer_Analysis/edit/main/README.md/PyBer_fare_summary.png" />Image</a>Image-link
+hjab ejfkh ae fa [Figure_example](Figure_example)
 hjab ejfkh ae fa
 hjab ejfkh ae fa
 
