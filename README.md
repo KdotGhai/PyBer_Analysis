@@ -20,3 +20,4 @@
 
 
 ## <br />Conlcusion:<br />
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Overall, "Pyber" is clearly thriving in Urban cities with high amountt of rides per city as well as, drivers per city to meet the percentage of requests despite being in excess with the respective order Driver to Rides. However, there are some disparities shown in the data beginning with rural cities in regards to fares & drivers. The percentage of drivers is at 2.6%a and that cannot meet the demands of 5.3% rides for rural cities, a recommendation would be to offer drivers a quartely bonus for oeprating in those cities after meeting a quota of rides given. An alternative recommendation would be to offer premium ride services while creating a seperate & slightly lower price for commercial riding. That way it would justify the high prices in rural areas with premium car-services while provinding an alternative the option of choosing a more wallet-friendly service.
