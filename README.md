@@ -9,7 +9,7 @@
  2. **% Total Riders & Drivers:**<br />:
    ![Total Rides Per City type](analysis/Fig6.png)<br />
    ![Total Drivers Per City Type](analysis/Fig7.png)<br />
-  
+   - From these pie charts we can infer that % Total Drivers is highly concentrated in Urban areas since its only antural to offer services in these cities as there are a high percentage of rides requested as well. However, the percentage of rides in both rural and suburban far supass the presence of drivers in those types of cities.  <br/>
 
 
 
